@@ -1,0 +1,6 @@
+pysg/
+test.py
+traymaster.py
+traymaster2.py
+*.xlsx
+*.pyc
